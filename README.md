@@ -1,6 +1,6 @@
 # nodejs-novice-to-expert
 
-A 7 days course to learn NodeJS from scratch to advanced
+A 7 days course to learn NodeJS from novice to expert level
 
 ## Prerequisite
 * Any programming languange OR basics of `JavaScript`
