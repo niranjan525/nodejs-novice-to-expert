@@ -89,7 +89,7 @@ A 7 days course to learn NodeJS from scratch to advanced
   
 * [Done: Code] Demo: all above topics
 
-TODO:
+# TODO:
 1) This repository currently contains just code examples, no conceptual explanations are given yet
 2) I am looking for contributors to explain concepts using README.md in each folder (day*), please send a pull request
 3) Instructions to run code for every example to be added
